@@ -24,3 +24,12 @@ To compile and run any Java program:
 ```bash
 javac calculator.java
 java calculator
+
+javac OddGen.java
+java OddGen
+
+javac OddSeriesGen.java
+java OddSeriesGen
+
+javac Totalcount.java
+java Totalcount
